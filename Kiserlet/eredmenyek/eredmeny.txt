@@ -1,0 +1,54 @@
+Név | Életkor | Helyszín | Dátum | Megjegyzés
+Hány %-ban ítéli noinek
+--------------------------------------------------
+
+csoport | xxx | bme | 2015.12.07. 17:06:26 | 
+Ismétlésszám: 1
+Nem adaptált kísérlet
+ 
+Eredmény 00: 1,000
+Eredmény 06: 1,000
+Eredmény 12: 1,000
+Eredmény 18: 1,000
+Eredmény 24: 0,000
+Eredmény 26: 0,000
+Eredmény 30: 0,000
+Eredmény 36: 0,000
+Eredmény 42: 0,000
+Eredmény 48: 0,000
+
+--------------------------------------------------
+
+bfare | 18 | bme | 2016.12.13. 12:12:03 | 
+Ismétlésszám: 1
+Nem adaptált kísérlet
+ 
+Eredmény 00: 1,000
+Eredmény 06: 1,000
+Eredmény 12: 1,000
+Eredmény 18: 0,667
+Eredmény 24: 0,000
+Eredmény 26: 0,000
+Eredmény 30: 0,000
+Eredmény 36: 0,000
+Eredmény 42: 0,000
+Eredmény 48: 0,000
+
+--------------------------------------------------
+
+xsax | 11 |  | 2021. 10. 25. 17:54:42 | 
+Ismétlésszám: 1
+Nem adaptált kísérlet
+ 
+Eredmény 00: 1,000
+Eredmény 06: 1,000
+Eredmény 12: 1,000
+Eredmény 18: 0,667
+Eredmény 24: 0,000
+Eredmény 26: 0,333
+Eredmény 30: 0,333
+Eredmény 36: 0,000
+Eredmény 42: 0,333
+Eredmény 48: 0,000
+
+--------------------------------------------------
